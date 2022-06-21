@@ -1,0 +1,3 @@
+Holder's Name: Person1
+Account Number: 12345678
+Bank balance: 4000.5

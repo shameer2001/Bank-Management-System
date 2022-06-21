@@ -1,0 +1,3 @@
+Holder's Name: Person2
+Account Number: 87654321
+Bank balance: 10.9
